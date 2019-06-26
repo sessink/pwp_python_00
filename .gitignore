@@ -47,3 +47,6 @@ pwp_argo.py
 ##directories
 plots/*
 old_files/*
+input_data/*
+plots/*
+output/*
