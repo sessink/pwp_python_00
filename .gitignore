@@ -45,8 +45,8 @@ pwp_argo.py
 *.bak
 
 ##directories
-plots/*
-old_files/*
-input_data/*
-plots/*
-output/*
+/plots/*
+/old_files/*
+/input_data/*
+/plots/
+/output/*
